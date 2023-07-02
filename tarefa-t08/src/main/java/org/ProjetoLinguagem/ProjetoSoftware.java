@@ -1,4 +1,4 @@
-package org.ProjetoLinguagem;
+package org.projetoLinguagem;
 
 import java.util.ArrayList;
 

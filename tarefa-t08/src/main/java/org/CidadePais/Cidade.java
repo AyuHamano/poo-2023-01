@@ -1,4 +1,4 @@
-package org.CidadePais;
+package org.cidadePais;
 
 public class Cidade {
     private

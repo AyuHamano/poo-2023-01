@@ -1,4 +1,4 @@
-package org.Disciplina01;
+package org.disciplina01;
 
 public class Disciplina {
     private

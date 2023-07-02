@@ -1,4 +1,4 @@
-package org.EscolaEndereco;
+package org.escolaEndereco;
 
 public class Escola {
     String nome;

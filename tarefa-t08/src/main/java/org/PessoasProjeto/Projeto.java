@@ -1,5 +1,4 @@
-package org.PessoasProjeto;
-
+package org.pessoasProjeto;
 import java.util.ArrayList;
 
 public class Projeto {

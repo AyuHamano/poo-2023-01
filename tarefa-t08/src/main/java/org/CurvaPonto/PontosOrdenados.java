@@ -1,4 +1,4 @@
-package org.CurvaPonto;
+package org.curvaPonto;
 
 public class PontosOrdenados {
     private

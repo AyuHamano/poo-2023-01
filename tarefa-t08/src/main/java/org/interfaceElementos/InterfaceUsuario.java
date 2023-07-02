@@ -1,4 +1,4 @@
-package org.Interface;
+package org.interfaceElementos;
 
 public class InterfaceUsuario {
     private
@@ -7,6 +7,5 @@ public class InterfaceUsuario {
     Botao botao;
     BarraRolagem barraRolagem;
 
-    public
-    void InterfaceUsuario() {}
+    InterfaceUsuario() {}
 }

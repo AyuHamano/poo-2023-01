@@ -1,4 +1,4 @@
-package arquivoPermissao;
+package org.arquivoPermissao;
 
 public class Permissao {
     String nomePermissao;

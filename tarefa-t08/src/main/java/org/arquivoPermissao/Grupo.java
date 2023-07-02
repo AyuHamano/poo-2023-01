@@ -1,4 +1,4 @@
-package arquivoPermissao;
+package org.arquivoPermissao;
 
 import java.util.ArrayList;
 import java.util.List;

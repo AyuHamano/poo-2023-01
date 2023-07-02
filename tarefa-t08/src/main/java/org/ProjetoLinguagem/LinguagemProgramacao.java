@@ -1,4 +1,4 @@
-package org.ProjetoLinguagem;
+package org.projetoLinguagem;
 
 public class LinguagemProgramacao {
     String nome, implementacao;

@@ -1,4 +1,4 @@
-package arquivoPermissao;
+package org.arquivoPermissao;
 
 public class Usuarios {
     String login, senha, nome;

@@ -1,4 +1,4 @@
-package org.PessoasProjeto;
+package org.pessoasProjeto;
 
 public class Pessoa {
     private
