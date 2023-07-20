@@ -1,4 +1,4 @@
-package org.CidadePais;
+package org.example.Github.AyuHamano.t08.escolaEndereco.cidadePais;
 
 import java.util.ArrayList;
 

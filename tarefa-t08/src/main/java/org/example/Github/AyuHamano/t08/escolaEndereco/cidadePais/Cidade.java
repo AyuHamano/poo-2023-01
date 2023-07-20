@@ -1,4 +1,4 @@
-package org.cidadePais;
+package org.example.Github.AyuHamano.t08.escolaEndereco.cidadePais;
 
 public class Cidade {
     private

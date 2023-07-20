@@ -1,4 +1,4 @@
-package org.TextoParagrafo;
+package org.example.Github.AyuHamano.t08.escolaEndereco.textoParagrafo;
 
 import java.util.ArrayList;
 public class Sentenca {

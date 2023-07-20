@@ -1,4 +1,4 @@
-package org.arquivoPermissao;
+package org.example.Github.AyuHamano.t08.escolaEndereco.arquivoPermissao;
 
 public class Usuarios {
     String login, senha, nome;

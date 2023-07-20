@@ -1,4 +1,4 @@
-package org.curvaPonto;
+package org.example.Github.AyuHamano.t08.escolaEndereco.curvaPonto;
 
 public class PontosOrdenados {
     private

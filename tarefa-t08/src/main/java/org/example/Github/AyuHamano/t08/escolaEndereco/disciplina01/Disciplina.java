@@ -1,4 +1,4 @@
-package org.disciplina01;
+package org.example.Github.AyuHamano.t08.escolaEndereco.disciplina01;
 
 public class Disciplina {
     private

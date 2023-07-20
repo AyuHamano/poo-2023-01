@@ -1,4 +1,4 @@
-package org.pessoasProjeto;
+package org.example.Github.AyuHamano.t08.escolaEndereco.pessoasProjeto;
 import java.util.ArrayList;
 
 public class Projeto {

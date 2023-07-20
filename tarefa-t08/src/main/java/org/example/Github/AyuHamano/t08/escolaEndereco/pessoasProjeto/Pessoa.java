@@ -1,4 +1,4 @@
-package org.pessoasProjeto;
+package org.example.Github.AyuHamano.t08.escolaEndereco.pessoasProjeto;
 
 public class Pessoa {
     private

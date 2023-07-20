@@ -1,4 +1,4 @@
-package org.empresaSalario;
+package org.example.Github.AyuHamano.t08.escolaEndereco.empresaSalario;
 
 import java.util.Date;
 

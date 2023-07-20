@@ -1,4 +1,4 @@
-package org.projetoLinguagem;
+package org.example.Github.AyuHamano.t08.escolaEndereco.projetoLinguagem;
 
 public class LinguagemProgramacao {
     String nome, implementacao;

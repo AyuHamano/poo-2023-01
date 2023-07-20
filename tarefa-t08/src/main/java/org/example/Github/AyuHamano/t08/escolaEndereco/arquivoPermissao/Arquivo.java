@@ -1,4 +1,4 @@
-package org.arquivoPermissao;
+package org.example.Github.AyuHamano.t08.escolaEndereco.arquivoPermissao;
 
 import java.util.ArrayList;
 import java.util.List;
