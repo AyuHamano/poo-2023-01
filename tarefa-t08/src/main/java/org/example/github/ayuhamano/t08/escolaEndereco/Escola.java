@@ -1,4 +1,4 @@
-package org.example.Github.AyuHamano.t08.escolaEndereco;
+package org.example.github.ayuhamano.t08.escolaEndereco;
 
 public class Escola {
     String nome;
