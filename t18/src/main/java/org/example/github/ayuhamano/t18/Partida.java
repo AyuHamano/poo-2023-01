@@ -19,9 +19,14 @@ public class Partida {
     }
 
     public void imprimirPartida() {
-        System.out.println(this.nome + "\n" + this.jogadorBrancas + "(Brancas) contra " + this.jogadorPretas + " (pretas)");
+        System.out.println(
+                "Nome da partida: " + this.nome + "\n"
+                + "Jogadores: \n"
+                + this.jogadorBrancas + " (Brancas) contra "
+                + this.jogadorPretas + " (pretas)\n"
+        );
         for(int i=0; i<23; i++) {
-            System.out.println(i + ". " + this.lances.get(i).toStringLance() + "\n");
+            System.out.println(i+1 + ". " + this.lances.get(i).toStringLance() + "\n");
         }
     }
 }
