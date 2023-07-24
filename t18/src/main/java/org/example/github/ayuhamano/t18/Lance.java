@@ -1,13 +1,21 @@
 package org.example.github.ayuhamano.t18;
 
 public class Lance {
-    Posicao posicao;
-    Jogador jogador;
-    Peca peca;
+    String nomeJogador, origem, destino;
 
-    public Lance(Posicao posicao, Jogador jogador, Peca peca) {
-        this.posicao = posicao;
-        this.jogador = jogador;
-        this.peca = peca;
+    public Lance(String nomeJogador, String origem, String destino) {
+        this.nomeJogador = nomeJogador;
+        this.origem = origem;
+        this.destino = destino;
     }
+
+    public String toStringLance() {
+        return (
+                nomeJogador
+                + ": " + origem
+                + " para " + destino
+                + "\n"
+        );
+    }
+
 }
