@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MaoJogador extends Configuracao {
-    String nome;
-    MaoJogador maoJogador;
-    public MaoJogador() {
-
-    }
+    int qtdCartas;
+    public MaoJogador() {}
 }

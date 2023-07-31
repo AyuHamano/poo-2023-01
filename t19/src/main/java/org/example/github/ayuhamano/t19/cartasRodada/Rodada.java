@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Rodada {
-    String nome;
+    int numRodada;
     List <Jogador> jogadores;
     public Rodada() {
         this.jogadores = new ArrayList<>();
