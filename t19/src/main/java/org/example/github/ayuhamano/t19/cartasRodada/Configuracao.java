@@ -7,7 +7,8 @@ public class Configuracao {
     String nome;
 
     public Configuracao() {
-        this.conjCartas = new ArrayList<>()
+        this.conjCartas = new ArrayList<>();
+
     }
 
 }

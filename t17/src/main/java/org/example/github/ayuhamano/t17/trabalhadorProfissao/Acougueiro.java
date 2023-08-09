@@ -1,9 +1,10 @@
 package org.example.github.ayuhamano.t17.trabalhadorProfissao;
 
-public class Advogado extends Profissao {
-    String nome, id, areaAtuacao, graduacao;
-    int numOAB;
-    public Advogado(int numOAB) {
-        this.numOAB = numOAB;
+public class Acougueiro extends Profissao {
+    String nome, id, areaAtuacao, acougue;
+    int anosExperiencia;
+    public Acougueiro(int numOAB, String acougue) {
+        this.acougue = acougue;
+        this.anosExperiencia = anosExperiencia;
     }
 }
